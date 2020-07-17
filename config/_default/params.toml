@@ -88,11 +88,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 #4511 Patriot Cir, Fairfax, VA 22030
-address = {street = "4511 Patriot Cir", city = "Fairfax", region = "VA", postcode = "22030", country = "United States", country_code = "US"}
+address = {street = "999", city = "Chengdu", region = "VA", postcode = "22030", country = "China", country_code = "China"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.827429", longitude = "-77.305163"}
+coordinates = {latitude = "30.778589", longitude = "103.961244"}
 
 # Directions for visitors to locate you.
 directions = "ENGR 3231"
