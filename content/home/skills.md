@@ -1,35 +1,41 @@
 +++
-# A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+# Feature/Skill widget.
+widget = "featurette"  # Do not modify this line!
+date = 2017-09-20T00:00:00
+
+# Activate this widget? true/false
+active = true
 
 title = "Skills"
 subtitle = ""
+
+# Order that this section will appear in.
+weight = 7
 
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# Available icon packs and icons:
+# * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
+# * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
+# * ai - academic icons (see https://jpswalsh.github.io/academicons/)
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Python, MATLAB, R, Julia"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
-  
-[[feature]]
-  icon = "globe-americas"
-  icon_pack = "fas"
-  name = "Spatial analysis"
+  icon = ""
+  icon_pack = ""
+  name = "Power System Analysis"
   description = ""
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = ""
+  icon_pack = ""
+  name = "GAMS, AMPL, CPLEX, Gurobi, JuMP, YALMIP"
   description = ""
-
 +++

@@ -1,14 +1,41 @@
 +++
-# About widget.
-widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+# About/Biography widget.
+widget = "about"
+active = true
+date = 2016-04-20T00:00:00
 
-title = "About"
+# Order that this section will appear in.
+weight = 5
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "admin"
+# List your academic interests.
+[interests]
+  interests = [
+    "Power System Economics",
+    "Energy Storage",
+    "PMU Data Analytics",
+    "Load Modeling",
+    "Optimization",
+    "Machine Learning",
+  ]
+
+# List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD in Electrical Engineering"
+  institution = "University of Washington"
+  year = 2017
+
+[[education.courses]]
+  course = "MS in Electrical Engineering"
+  institution = "University of Washington"
+  year = 2013
+
+[[education.courses]]
+  course = "BEng in Electrical Engineering"
+  institution = "Tsinghua University"
+  year = 2011
+ 
 +++
+
+# Biography
+
+Yishen Wang joins [Global Energy Interconnection Research Institute North America (GEIRI North America)](https://www.geirina.net/research/2) since 2017. His research interests include power system economics, energy storage, PMU data analytics and optimization.
