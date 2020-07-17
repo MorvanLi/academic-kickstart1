@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Duc Tri Nguyen
+name: Bo Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant
-
+role: Master Student
 # Organizations/Affiliations
 organizations:
-- name: George Mason University
-  url: "https://cryptography.gmu.edu/team/dnguye69.php"
+- name: Xihua University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include implementation of Post-Quantum Cryptography using High Level Synthesis in FPGA and NEON instruction in ARM platform, beside, sometimes I play CTFs, Crypto and Reverse Engineering are my favorite categories.
 
 interests:
-- Post-Quantum Cryptography
-- SIMD Cryptographic Implementation
-- Deep Learning Binary Analysis
-- Capture The Flag
-- High Level Synthesis
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Artificial Intelligence
+- Go
 
 education:
   courses:
-  - course: PhD in Hardware Implementation of Post-Quantum Cryptography
-    institution: George Mason University, VA, USA
-    year: 2017
-  - course: BSc in Computer Engineering
-    institution: Bach Khoa University, Vietnam
-    year: 2015
+  - course: M.Sc in Computer Science and Technology
+    institution: Xihua University, Chengdu
+    year: 2018
+  - course: BSc in Software Engineering
+    institution: Xihua University, Chengdu
+    year: 2014
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dnguye69@gmu.edu'  
+  link: 'morvanli@foxmail.com'  
   # link: '#contact'
 - icon: twitter
   icon_pack: fab
@@ -53,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=5NgMMB4AAAAJ
 - icon: github
   icon_pack: fab
-  link: http://github.com/cothan
+  link: http://github.com/MorvanLi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -70,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Duc (Cothan) Nguyen is a graduate research assistant in hardware implementation of Post-Quantum Cryptography in FPGA. His research interest includes designing Post-Quantum Cryptography hardware architecture, applying deep learning to binary analysis, and NEON implementation of multiple PQC candidates. Before his Ph.D., he participated in many CTF competitions and won several national and international prizes, his tasks were to implement relevant cryptographic attack papers during competitions. 
-
-Also, he is the founder of [Efiens CTF team](http://efiens.com/), Efiens has become top student CTF team in Vietnam, furthermore, Efiens team achieves honored prizes in International Olympiad in Cryptography (NSUCRYPTO) 2016, 2017, 2018, 2019 and has multiple publications in the area of Cryptography.
+I am a master student of artificial intelligence at the Xihua University. I am very fortunate to be advised by [Prof. Hong Peng](http://202.115.144.153/jsj/ph/list.psp). My research includes machine learning, deep learning, computer vision. 
