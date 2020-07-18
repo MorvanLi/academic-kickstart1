@@ -17,7 +17,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include implementation of Post-Quantum Cryptography using High Level Synthesis in FPGA and NEON instruction in ARM platform, beside, sometimes I play CTFs, Crypto and Reverse Engineering are my favorite categories.
+bio: I am a master student of artificial intelligence at the Xihua University. My research includes machine learning, deep learning, computer vision. 
 
 interests:
 - Machine Learning
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: M.Sc in Computer Science and Technology
+  - course: M.Sc in Computer Science
     institution: Xihua University, Chengdu
     year: 2018
   - course: BSc in Software Engineering
@@ -46,10 +46,10 @@ social:
   # link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/c0th4n
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=5NgMMB4AAAAJ
+  link: 
 - icon: github
   icon_pack: fab
   link: http://github.com/MorvanLi
