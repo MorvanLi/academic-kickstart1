@@ -1,12 +1,17 @@
-@article{DAGS_JMC18,
-     author       = {Banegas, {G.} and Barreto, {P. S. L. M.} and Boidje, {B. O.} and Cayrel, {P.-L.} and Dione, {G. N.}  and Gaj, {K.} and Gueye, {C. T.} and Haeussler, {R.} and Klamti, {J. B.} and Ndiaye, {O.} and Nguyen, {D. T.}  and Persichetti, {E.}},
-     title        = {{DAGS}: {K}ey Encapsulation using {D}yadic {GS} Codes},
-     journal      = {Journal of Mathematical Cryptology},
-     volume       = {12},
-     number       = {4},
-     pages        = {221--240},
-     month        = {December},
-     year         = {2018},
-     note         = {}
+@InProceedings{10.1007/978-3-030-25510-7_2,
+author="Farahmand, Farnoud
+and Dang, Viet B.
+and Nguyen, Duc Tri
+and Gaj, Kris",
+editor="Ding, Jintai
+and Steinwandt, Rainer",
+title="Evaluating the Potential for Hardware Acceleration of Four NTRU-Based Key Encapsulation Mechanisms Using Software/Hardware Codesign",
+booktitle="Post-Quantum Cryptography",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="23--43",
+abstract="The speed of NTRU-based Key Encapsulation Mechanisms (KEMs) in software, especially on embedded software platforms, is limited by the long execution time of its primary operation, polynomial multiplication. In this paper, we investigate the potential for speeding up the implementations of four NTRU-based KEMs, using software/hardware codesign, when targeting Xilinx Zynq UltraScale+ multiprocessor system-on-chip (MPSoC). All investigated algorithms compete in Round 1 of the NIST PQC standardization process. They include: ntru-kem from the NTRUEncrypt submission, Streamlined NTRU Prime and NTRU LPRime KEMs of the NTRU Prime candidate, and NTRU-HRSS-KEM from the submission of the same name. The most-time consuming operation, polynomial multiplication, is implemented in the Programmable Logic (PL) of Zynq UltraScale+ (i.e., in hardware) using constant-time hardware architectures most appropriate for a given algorithm. The remaining operations are executed in the Processing System (PS) of Zynq, based on the ARM Cortex-A53 Application Processing Unit. The speed-ups of our software/hardware codesigns vs. purely software implementations, running on the same Zynq platform, are determined experimentally, and analyzed in the paper. Our experiments reveal substantial differences among the investigated candidates in terms of their potential to benefit from hardware accelerators, with the special focus on accelerators aimed at offloading to hardware only the most time-consuming operation of a given cryptosystems. The demonstrated speed-ups vs. functionally equivalent purely software implementations vary between 4.0 and 42.7 for encapsulation, and between 6.4 and 149.7 for decapsulation.",
+isbn="978-3-030-25510-7"
 }
 
