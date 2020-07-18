@@ -1,43 +1,42 @@
 ---
-title: "Evaluating the Potential for Hardware Acceleration of Four NTRU-Based Key Encapsulation Mechanisms Using Software/Hardware Codesign"
+title: "Multi-focus image fusion based on dynamic threshold neural P systems and surfacelet transform"
 authors:
-date: "2019-04-07T00:00:00Z"
+date: "2020-03-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-03-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Evaluating the Potential for Hardware Acceleration of Four NTRU-Based Key Encapsulation Mechanisms Using Software/Hardware Codesign"
-publication_short: "NTRU-Based KEM Software/Hardware Codesign"
+publication: "Knowledged-Based Systems"
+publication_short: "Knowledged-Based Systems"
 
-abstract: "The speed of NTRU-based Key Encapsulation Mechanisms (KEMs) in software, especially on embedded software platforms, is limited by the long execution time of its primary operation, polynomial multiplication. In this paper, we investigate the potential for speeding up the implementations of four NTRU-based KEMs, using software/hardware codesign, when targeting Xilinx Zynq UltraScale+ multiprocessor system-on-chip (MPSoC). All investigated algorithms compete in Round 1 of the NIST PQC standardization process. They include: ntru-kem from the NTRUEncrypt submission, Streamlined NTRU Prime and NTRU LPRime KEMs of the NTRU Prime candidate, and NTRU-HRSS-KEM from the submission of the same name. The most-time consuming operation, polynomial multiplication, is implemented in the Programmable Logic (PL) of Zynq UltraScale+ (i.e., in hardware) using constant-time hardware architectures most appropriate for a given algorithm. The remaining operations are executed in the Processing System (PS) of Zynq, based on the ARM Cortex-A53 Application Processing Unit. The speed-ups of our software/hardware codesigns vs. purely software implementations, running on the same Zynq platform, are determined experimentally, and analyzed in the paper. Our experiments reveal substantial differences among the investigated candidates in terms of their potential to benefit from hardware accelerators, with the special focus on accelerators aimed at offloading to hardware only the most time-consuming operation of a given cryptosystems. The demonstrated speed-ups vs. functionally equivalent purely software implementations vary between 4.0 and 42.7 for encapsulation, and between 6.4 and 149.7 for decapsulation."
+abstract: Dynamic threshold neural P systems (DTNP systems) are recently proposed distributed and parallel computing models, inspired from the intersecting cortical model. DTNP systems differ from spiking neural P systems (SNP systems) due to the introduction of dynamic threshold mechanism of neurons. DTNP systems have been theoretically proven to be Turing universal computing devices. This paper discusses how to apply DTNP systems to deal with the fusion of multi-focus images, and proposes a novel image fusion method based on DTNP systems in surfacelet domain. Based on four DTNP systems with local topology, a multi-focus image fusion framework in surfacelet domain is developed, where DTNP systems are applied to control the fusion of low- and high-frequency coefficients in surfacelet domain. The proposed fusion method is evaluated on an open dataset of 20 multi-focus images in terms of five fusion quality metrics, and compared with 10 state-of-the-art fusion methods. Quantitative and qualitative experimental results demonstrate the advantages of the proposed fusion method in terms of visual quality, fusion performance and computational efficiency.
+
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- NTRU
-- SW-HW Codesign
-- FPGA
-- HLS
+- Number Theoretic Transform
+- NTT
 - RTL
+- HLS
+- FPGA
 - High Level Synthesis
+- SDSoC
+- BareMetal
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-25510-7_2
-url_code: https://cryptography.gmu.edu:4443/PQC_Round1
-url_slides: https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_PQCrypto_2019_SWHW_slides.pdf
-url_source: https://cryptography.gmu.edu:4443/PQC_Round1
+url_poster: https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_FPT_2019_NTT_poster.pdf
+url_pdf: https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_FPT_2019_NTT.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
