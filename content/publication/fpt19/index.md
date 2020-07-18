@@ -23,19 +23,18 @@ abstract: "This paper proposes a new variant of spiking neural P systems (in sho
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- NTRU
-- NTRUEncrypt
-- RTL
-- HLS
-- FPGA
-- High Level Synthesis
+- NSNP Systems
+- Function Computing
+- Deep Learning
+- Machine Learning
+- Computer Vision
 featured: false
 
 links:
-url_poster: https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_FPL_2019_SWHW_poster.pdf
-url_pdf: https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_FPL_2019_SWHW.pdf
-url_code: https://cryptography.gmu.edu:4443/PQC_Round1
-url_source: https://cryptography.gmu.edu:4443/PQC_Round1
+url_poster: https://www.worldscientific.com/doi/10.1142/S0129065720500082
+url_pdf: https://www.worldscientific.com/doi/10.1142/S0129065720500082
+url_code: https://www.worldscientific.com/doi/10.1142/S0129065720500082
+url_source: https://www.worldscientific.com/doi/10.1142/S0129065720500082
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
