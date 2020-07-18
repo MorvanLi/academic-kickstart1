@@ -1,23 +1,23 @@
 ---
-title: "DAGS: Reloaded Revisiting Dyadic Key Encapsulation"
+title: "Spiking neural P systems with structural plasticity and anti-spikes"
 authors:
-date: "2019-01-01T00:00:00Z"
+date: "2019-08-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2019-08-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "DAGS: Reloaded Revisiting Dyadic Key Encapsulation"
-publication_short: "DAGS: Reloaded Revisiting Dyadic Key Encapsulation"
+publication: "Theoretical Computer Science"
+publication_short: "Theoretical Computer Science"
 
-abstract: In this paper we revisit some of the main aspects of the DAGS Key Encapsulation Mechanism, one of the code-based candidates to NIST’s standardization call for the key exchange/encryption functionalities. In particular, we modify the algorithms for key generation, encapsulation and decapsulation to fit an alternative KEM framework, and we present a new set of parameters that use binary codes. We discuss advantages and disadvantages for each of the variants proposed.
+abstract: Spiking neural P systems (in short, SNP systems) are a class of distributed parallel computing devices, abstracted from the way neurons communicate by means of spikes. This paper discusses spiking neural P systems with structural plasticity and anti-spikes (in short, SNP-SPA systems), a new variant of SNP systems with two interesting features: structural plasticity and anti-spike. By means of plasticity rules in neurons, SNP-SPA systems can provide a dynamic directed graph structure. Turing universality of SNP-SPA systems is discussed. It is proven that SNP-SPA systems as number generating/accepting devices are Turing universal, and a small example with 56 neurons that computes a universal function is constructed. The introduction of anti-spikes allows to reduce the modules in the proof of universality.
 
 tags:
 - NIST
