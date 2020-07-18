@@ -1,11 +1,11 @@
 ---
-title: "Spiking neural P systems with structural plasticity and anti-spikes"
+title: "DAGS: Key encapsulation using dyadic GS codes"
 authors:
-date: "2019-08-28T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-08-28T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -14,10 +14,10 @@ publishDate: "2019-08-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Theoretical Computer Science"
-publication_short: "Theoretical Computer Science"
+publication: "DAGS: Key encapsulation using dyadic GS codes"
+publication_short: "DAGS: Reloaded Revisiting Dyadic Key Encapsulation"
 
-abstract: Spiking neural P systems (in short, SNP systems) are a class of distributed parallel computing devices, abstracted from the way neurons communicate by means of spikes. This paper discusses spiking neural P systems with structural plasticity and anti-spikes (in short, SNP-SPA systems), a new variant of SNP systems with two interesting features: structural plasticity and anti-spike. By means of plasticity rules in neurons, SNP-SPA systems can provide a dynamic directed graph structure. Turing universality of SNP-SPA systems is discussed. It is proven that SNP-SPA systems as number generating/accepting devices are Turing universal, and a small example with 56 neurons that computes a universal function is constructed. The introduction of anti-spikes allows to reduce the modules in the proof of universality.
+abstract: Code-based cryptography is one of the main areas of interest for NIST’s Post-Quantum Cryptography Standardization call. In this paper, we introduce DAGS, a Key Encapsulation Mechanism (KEM) based on quasi-dyadic generalized Srivastava codes. The scheme is proved to be IND-CCA secure in both random oracle model and quantum random oracle model. We believe that DAGS will offer competitive performance, especially when compared with other existing code-based schemes, and represent a valid candidate for post-quantum standardization.
 
 
 tags:
