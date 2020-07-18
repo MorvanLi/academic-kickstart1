@@ -87,7 +87,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+
+email = "morvanli@foxmail.com or morvanli@mail.xhu.edu.cn"
+
 #4511 Patriot Cir, Fairfax, VA 22030
+
 address = {street = "999 Jinzhou Road", city = "Chengdu", region = "Jinniu District", postcode = "610039", country = "China", country_code = "China"}
 
 # Geographic coordinates
