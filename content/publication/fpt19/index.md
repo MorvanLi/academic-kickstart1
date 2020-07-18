@@ -1,23 +1,23 @@
 ---
-title: "A High-Level Synthesis Approach to the Software/Hardware Codesign of NTT-based Post-Quantum Cryptography Algorithms"
+title: "Multi-focus image fusion based on dynamic threshold neural P systems and surfacelet transform"
 authors:
-date: "2019-12-07T00:00:00Z"
+date: "2020-03-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-12-01T00:00:00Z"
+publishDate: "2020-03-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "A High-Level Synthesis Approach to the Software/Hardware Codesign of NTT-based Post-Quantum Cryptography Algorithms"
-publication_short: "Number Theoretic Transform High Level Synthesis vs RTL SW/HW Codesign"
+publication: "Knowledged-Based Systems"
+publication_short: "Knowledged-Based Systems"
 
-abstract: Due to an emerging threat of quantum computing, one of the major challenges facing the cryptographic community is a timely transition from traditional public-key cryptosystems, such as RSA and Elliptic Curve Cryptography, to a new class of algorithms, collectively referred to as Post-QuantumCryptography (PQC). Several promising candidates for a new PQC standard can have their software and hardware implementations accelerated using the Num-ber Theoretic Transform (NTT). In this paper, we present an improved hardware architecture for NTT,with the hardware-friendly modular reduction, and demonstrate that this architecture can be efficiently implemented in hardware using High-Level Synthesis(HLS). The novel feature of the proposed architecture is an original memory write-back scheme, which assists in preparing coefficients for performing later NTT stages, saving memory storage used for precomputed constants. Our design is the most efficient for the case when $log_2N$ is even. The latency of our proposed architecture is approximately equal to $(N log_2N+ 3N)/4$ clock cycles. As a proof of concept, we implemented the NTT operation for several parameter sets used in the PQC algorithms NewHope, FALCON, qTESLA, and CRYSTALS-DILITHIUM.
+abstract: Dynamic threshold neural P systems (DTNP systems) are recently proposed distributed and parallel computing models, inspired from the intersecting cortical model. DTNP systems differ from spiking neural P systems (SNP systems) due to the introduction of dynamic threshold mechanism of neurons. DTNP systems have been theoretically proven to be Turing universal computing devices. This paper discusses how to apply DTNP systems to deal with the fusion of multi-focus images, and proposes a novel image fusion method based on DTNP systems in surfacelet domain. Based on four DTNP systems with local topology, a multi-focus image fusion framework in surfacelet domain is developed, where DTNP systems are applied to control the fusion of low- and high-frequency coefficients in surfacelet domain. The proposed fusion method is evaluated on an open dataset of 20 multi-focus images in terms of five fusion quality metrics, and compared with 10 state-of-the-art fusion methods. Quantitative and qualitative experimental results demonstrate the advantages of the proposed fusion method in terms of visual quality, fusion performance and computational efficiency.
 
 
 # Summary. An optional shortened abstract.

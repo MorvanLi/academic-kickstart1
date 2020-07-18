@@ -1,23 +1,23 @@
 ---
-title: "Software/Hardware Codesign of the Post Quantum Cryptography Algorithm NTRUEncrypt Using High-Level Synthesis and Register-Transfer Level Design Methodologies"
+title: "Nonlinear Spiking Neural P Systems"
 authors:
-date: "2019-04-07T00:00:00Z"
+date: "2020-03-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-03-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Software/Hardware Codesign of the Post Quantum Cryptography Algorithm NTRUEncrypt Using High-Level Synthesis and Register-Transfer Level Design Methodologies"
-publication_short: "NTRUEncrypt High Level Synthesis vs RTL"
+publication: "International Journal of Neural Systems"
+publication_short: "International Journal of Neural Systems"
 
-abstract: "When quantum computers become scalable and reliable, they are likely to break all public-key cryptography standards, such as RSA and Elliptic Curve Cryptography. The projected threat of quantum computers has led the U.S. National Institute of Standards and Technology (NIST) to an effort aimed at replacing existing public-key cryptography standards with new quantum-resistant alternatives. In December 2017, 69 candidates were accepted by NIST to Round 1 of the NIST Post-Quantum Cryptography (PQC) standardization process. NTRUEncrypt is one of the most well-known PQC algorithms that has withstood cryptanalysis. The speed of NTRUEncrypt in software, especially on embedded software platforms, is limited by the long execution time of its primary operation, polynomial multiplication. In this paper, we investigate speeding up NTRUEncrypt using software/hardware codesign on a Xilinx Zynq UltraScale+ multiprocessor system-on-chip (MPSoC). Polynomial multiplication is implemented in the Programmable Logic (PL) of Zynq using two approaches: traditional Register-Transfer Level (RTL) and High-Level Synthesis (HLS). The remaining operations of NTRUEncrypt are executed in software on the Processing System (PS) of Zynq, using the bare-metal mode. The speed-up of our software/hardware codesigns vs. purely software implementations is determined experimentally and analyzed in the paper. The results are reported for the RTL-based and HLS-based hardware accelerators, and compared to the best available software implementation, included in the NIST submission package. The speed-ups for encryption were 2.4 and 3.9, depending on the selected parameter set. For decryption, the corresponding speed-ups were 4.0 and 6.8. In addition, for the polynomial multiplication operation itself, the speed up was in excess of 75. Our code for the NTRUEncrypt polynomial multiplier accelerator is being made open-source for further evaluation on multiple software/hardware platforms."
+abstract: "This paper proposes a new variant of spiking neural P systems (in short, SNP systems), nonlinear spiking neural P systems (in short, NSNP systems). In NSNP systems, the state of each neuron is denoted by a real number, and a real configuration vector is used to characterize the state of the whole system. A new type of spiking rules, nonlinear spiking rules, is introduced to handle the neuron’s firing, where the consumed and generated amounts of spikes are often expressed by the nonlinear functions of the state of the neuron. NSNP systems are a class of distributed parallel and nondeterministic computing systems. The computational power of NSNP systems is discussed. Specifically, it is proved that NSNP systems as number-generating/accepting devices are Turing-universal. Moreover, we establish two small universal NSNP systems for function computing and number generator, containing 117 neurons and 164 neurons, respectively."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
