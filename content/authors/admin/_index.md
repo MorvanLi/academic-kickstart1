@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student
+role: Master Student in Deep Learning
 # Organizations/Affiliations
 organizations:
 - name: Xihua University
@@ -24,7 +24,7 @@ interests:
 - Deep Learning
 - Computer Vision
 - Artificial Intelligence
-- Go
+- PyTorch
 
 education:
   courses:
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a master student of artificial intelligence at the Xihua University. I am very fortunate to be advised by [Prof. Hong Peng](http://202.115.144.153/jsj/ph/list.psp). My research includes machine learning, deep learning, computer vision. 
+I am a master student of artificial intelligence at the Xihua University. I am very fortunate to be advised by [Prof. Hong Peng](http://202.115.144.153/jsj/ph/list.psp). My research includes machine learning, deep learning, computer vision. For now, I plan to continue my studies.
