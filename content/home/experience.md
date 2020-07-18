@@ -18,33 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD Student - Graduate Research Assistant"
-  company = "Cryptographic Engineering Research Group"
-  company_url = "https://cryptography.gmu.edu/team/dnguye69.php"
-  location = "Fairfax, VA, USA"
-  date_start = "2017-09-01"
+  title = "Master Student"
+  company = "Xihua University"
+  company_url = ""
+  location = "Chengdu, China"
+  date_start = "2018-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Evaluate, benchmark Post-Quantum Cryptography (PQC) NIST lattice-based candidates
-  * Offload time-critical functionality to FPGA
-  * Design and Implement High speed Hardware architecture using High-Level-Synthesis
-  * Experiment on SDSoc Platform, estimate speed up
+  * Learning basic computer science knowledge
+  * Researching in machine learning, data mining and computer vision
+  * Teaching assistants for Machine Learning course
   """
 
 [[experience]]
-  title = "Operation Security Internship"
-  company = "VNG Corporation"
-  company_url = "https://www.vng.com.vn/"
-  location = "Ho Chi Minh, Vietnam"
-  date_start = "2014-12-01"
-  date_end = "2015-04-01"
+  title = "Algorithm Engineer Intern"
+  company = "Xihua University"
+  company_url = ""
+  location = "Chengdu, China"
+  date_start = "2020-07-01"
+  date_end = ""
   description = """
   Responsibilities include:
 
-  * Tracked and monitored security events
-  * Detected and responded to abnormal activities and behavior of sophisticated malware
+  * pedestrian detection
+  * image fusion
   """
 
 +++
