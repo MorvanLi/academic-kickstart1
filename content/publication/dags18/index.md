@@ -23,21 +23,21 @@ abstract: "Motivated by the mechanism of inhibitory synapses, a new kind of spik
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- NTRU
-- SW-HW Codesign
-- FPGA
-- HLS
-- RTL
-- High Level Synthesis
+- Inhibitory Rules
+- Firing Rules
+- Deep Learning
+- Accepting/Generating Devices
+- Computer Vision
+- Machine Learning
 featured: false
 
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-25510-7_2
-url_code: https://cryptography.gmu.edu:4443/PQC_Round1
-url_slides: https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_PQCrypto_2019_SWHW_slides.pdf
-url_source: https://cryptography.gmu.edu:4443/PQC_Round1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0950705119304514
+url_code: https://www.sciencedirect.com/science/article/pii/S0950705119304514
+url_slides: https://www.sciencedirect.com/science/article/pii/S0950705119304514
+url_source: https://www.sciencedirect.com/science/article/pii/S0950705119304514
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
