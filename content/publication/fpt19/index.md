@@ -24,19 +24,19 @@ abstract: Dynamic threshold neural P systems (DTNP systems) are recently propose
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Number Theoretic Transform
-- NTT
-- RTL
-- HLS
-- FPGA
-- High Level Synthesis
-- SDSoC
-- BareMetal
+- DTNP
+- ST
+- Image Fusion
+- Multi-focus Images
+- Visual Quality
+- Fusion Performance
+- Computational Efficiency
+- SNP
 featured: false
 
 links:
-url_poster: https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_FPT_2019_NTT_poster.pdf
-url_pdf: https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_FPT_2019_NTT.pdf
+url_poster: https://www.sciencedirect.com/science/article/pii/S0950705120301854
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0950705120301854
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
