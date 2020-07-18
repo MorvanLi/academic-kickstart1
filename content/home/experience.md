@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Chengdu, China"
   date_start = "2020-07-01"
-  date_end = "2015-04-01"
+  date_end = ""
   description = """
   Responsibilities include:
 
