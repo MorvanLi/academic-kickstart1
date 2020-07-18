@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Master Student"
+  title = "Master Student - Artificial Intelligence"
   company = "Xihua University"
   company_url = ""
   location = "Chengdu, China"
@@ -26,11 +26,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Learning basic computer science knowledge
-  * Researching in machine learning, data mining and computer vision
+  * Researching in machine learning and computer vision
   * Teaching assistants for Machine Learning course
-  """
+      """
 
 [[experience]]
   title = "Algorithm Engineer Intern"
@@ -38,12 +38,12 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Chengdu, China"
   date_start = "2020-07-01"
-  date_end = ""
+  date_end = "2015-04-01"
   description = """
   Responsibilities include:
 
-  * pedestrian detection
-  * image fusion
-  """
+  * Pedestrian Detection
+  * Image Fusion
+    """
 
 +++
