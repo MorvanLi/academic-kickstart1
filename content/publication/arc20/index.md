@@ -21,21 +21,19 @@ abstract: Coupled neural P systems (CNP systems) are a recently developed Turing
 
 
 tags:
-- Number Theoretic Transform
-- NTT
-- RTL
-- HLS
-- FPGA
-- High Level Synthesis
-- SDSoC
-- BareMetal
+- CNP systems
+- Turing-universal
+- Computing Model
+- Medical Images
+- NSST
+- Deep Learning
 featured: false
 
 
 links:
 - name: Full Version
-  url: arc20_15pages.pdf
-url_pdf: https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_ARC_2020_NTT.pdf
+  url: https://doi.org/10.1142/S0129065720500501
+url_pdf: https://doi.org/10.1142/S0129065720500501
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
