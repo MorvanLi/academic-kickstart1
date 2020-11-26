@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a master student of artificial intelligence at the Xihua University. I am very fortunate to be advised by [Prof. Hong Peng](http://202.115.144.153/jsj/ph/list.psp). My research includes machine learning, deep learning, computer vision. For now, I plan to continue my studies.
+I am a master student of artificial intelligence at the Xihua University. I am very fortunate to be advised by [Prof. Hong Peng](http://202.115.144.153/jsj/ph/list.psp). My research includes machine learning, deep learning, computer vision. 
